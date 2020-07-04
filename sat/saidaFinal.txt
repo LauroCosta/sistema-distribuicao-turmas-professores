@@ -1,0 +1,81 @@
+alexandre
+  logica cc qua sex h2
+  logica es ter qui h4
+annaBeatriz
+  arqSoft es seg qua h4
+  introES es seg qua h3
+  qualidade es seg qua h2
+  ppct cces ter h3
+bonfim
+  compiladores cc ter qui h1
+  teoriaComp cc ter qui h4
+  LFA cc seg qua h2
+daniel
+  FBD cc ter qui h1
+  FBD es seg qua h1
+  compGraf cc seg qua h2
+eurinardo
+  lab cc seg qua h3
+  lab es seg qua h2
+  EDA cc ter qui h4
+filipe
+  web cc ter qui h4
+  SD cc ter qui h1
+  redes cces seg qua h3
+nauber
+  LIP es ter qui h4
+  processos es seg qua h2
+  manutencao es seg qua h1
+osvaldo
+  IPRS es seg qua h3
+  gerencia es seg qua h2
+  APS cces ter qui h1
+josemeire
+  empreendedorismo cces seg qua h3
+  etica cc ter qui h3
+  etica es ter qui h4
+marcio
+  PAA cces ter qui h2
+  FUP cc qua sex h2
+  FUP es ter qui h3
+joaoVictor
+  POO cc ter qui h4
+  POO es seg qua h3
+  VEV es ter qui h3
+  PDS es seg qua h1
+pablo
+  grafos cc seg qua h3
+  grafos es ter qui h2
+tatiane
+  matComp cc seg qua h1
+  ED cc ter qui h2
+  ED es ter qui h1
+patricia
+  requisitos es seg qua h2
+  engSoft cc ter qui h3
+  IHC cc ter qui h4
+  IHC es ter qui h2
+alex
+  SO es ter qui h3
+  IA cc ter qui h2
+  arqComp cc ter qui h4
+  arqComp es qua sex h1
+gleison
+  matBas es seg qua h1
+  calc cc ter qui h4
+gastao
+  matBas cc ter qui h1
+  algebra cc seg qua h2
+rosineide
+  probEst cc seg qua h1
+andersonFeitoza
+  matDis cc seg qua h1
+  matDis es ter qui h4
+nilde
+  probEst es seg qua h1
+andersonMagno
+  preCalc cc seg h2
+rafaelIvo
+  SO cc ter qui h2
+  introCC cc seg qua h1
+  LIP cc ter qui h1
